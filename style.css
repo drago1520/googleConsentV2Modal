@@ -172,13 +172,13 @@ input[type="checkbox"] {
     margin-top: 10px;
 }
 .consent-details{
-  margin-top: 10px;
+  margin-top: 20px;
   display: flex;
   justify-content: space-between;
 }
 .secondary-button{
   background-color: transparent;
-  border: 3px solid #dc2d19af;
+  border: 3px solid rgb(134, 134, 134);
   font-size:10px;
   border-radius: 4px;
   color: rgb(134, 134, 134);
